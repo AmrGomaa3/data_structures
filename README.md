@@ -1,6 +1,13 @@
-# data structures
+# Data Structures
 
-C++ implementation of various data structures.
+A collection of hand-written C++ data structures focused on low-level control, explicit memory management, and performance optimizations. Each module includes:
 
-1- [Dynamic Array](./dynamic_array)  
-2- [Stack](./stack)
+- a clean implementation
+- targeted optimizations
+- full complexity analysis
+- test suite
+
+Available structures:
+
+1. [Dynamic Array](./dynamic_array/)
+2. [Stack](./stack/)
