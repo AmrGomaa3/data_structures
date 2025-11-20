@@ -11,3 +11,4 @@ Available structures:
 
 1. [Dynamic Array](./dynamic_array/)
 2. [Stack](./stack/)
+3. [Queue](./queue/)
