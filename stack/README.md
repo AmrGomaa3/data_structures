@@ -258,4 +258,4 @@ Move semantics (move constructor and move assignment operator) are intentionally
 ---
 
 **Part of the Data Structures Portfolio**  
-[Previous: Dynamic Array](../dynamic_array/README.md) | [View Repository](../) | [Next: Queue](../deque/README.md)
+[Previous: Dynamic Array](../dynamic_array/README.md) | [View Repository](../) | [Next: Queue](../queue/README.md)
