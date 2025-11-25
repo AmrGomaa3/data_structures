@@ -15,3 +15,4 @@ Available structures:
 4. [Deque](./deque/)
 5. [Hash Table](./hash_table/)
 6. [Binary Search Tree](./BST/)
+7. [Priority Queue](./PQ/)
