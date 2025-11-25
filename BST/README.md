@@ -112,4 +112,4 @@ Checks if the tree is empty.
 ---
 
 **Part of the Data Structures Portfolio**  
-[Previous: Hash Table](../hash_table/README.md) | [View Repository](../) | [Next: Priority Queue](../priority_queue/README.md)
+[Previous: Hash Table](../hash_table/README.md) | [View Repository](../) | [Next: Priority Queue](../PQ/README.md)
