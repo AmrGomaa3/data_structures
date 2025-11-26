@@ -1,6 +1,6 @@
 # Data Structures
 
-A collection of C++ implementations of care data structures focused on low-level control, manual memory management, raw pointer manipulations and performance optimizations. Avoids the use of STL containers. Each module includes:
+A collection of C++ implementations of core data structures focused on low-level control, manual memory management, raw pointer manipulations and performance optimizations. Avoids the use of STL containers. Each module includes:
 
 - a clean implementation
 - targeted optimizations
@@ -19,9 +19,9 @@ Available structures:
 
 ## Overview
 
-This repository showcases core CS fundamentals without relying on STL containers, demonstrating deep understanding of:
+This repository showcases core CS fundamentals, demonstrating deep understanding of:
 - Manual memory management
-- Pointer manipulatio
+- Pointer manipulation
 - Algorithmic complexity and trade-off analysis
 - Performance measurement and optimization techniques
 
