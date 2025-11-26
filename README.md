@@ -1,6 +1,6 @@
 # Data Structures
 
-A collection of hand-written C++ data structures focused on low-level control, explicit memory management, and performance optimizations. Each module includes:
+A collection of C++ implementations of care data structures focused on low-level control, manual memory management, raw pointer manipulations and performance optimizations. Avoids the use of STL containers. Each module includes:
 
 - a clean implementation
 - targeted optimizations
@@ -16,3 +16,9 @@ Available structures:
 5. [Hash Table](./hash_table/)
 6. [Binary Search Tree](./BST/)
 7. [Priority Queue](./PQ/)
+
+
+## License
+
+The project is licensed under the MIT License.
+See the [LICENSE](./LICENSE) file for license information.
